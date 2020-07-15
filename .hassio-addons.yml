@@ -1,0 +1,8 @@
+---
+channel: stable
+addons:
+  apcupsd2mqtt:
+    repository: alex-savin/addon-apcupsd2mqtt
+    target: apcupsd2mqtt
+    image: smarthouseint/arm64-addon-apcupsd2mqtt
+
